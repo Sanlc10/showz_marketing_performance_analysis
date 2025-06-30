@@ -1,5 +1,5 @@
 # 🎟️ Proyecto de Análisis de Marketing y Comportamiento de Usuarios en Showz
-
+![Showz project readme image](https://github.com/user-attachments/assets/45bef0e4-3a56-4be1-a00c-5777758bb2bc)
 📊 Resumen del proyecto
 Este análisis de datos se centra en el comportamiento de los usuarios y el rendimiento del marketing de Showz, una plataforma de venta de entradas para eventos. El objetivo es ofrecer recomendaciones prácticas para optimizar el presupuesto de marketing y mejorar las estrategias de adquisición de clientes.
 
